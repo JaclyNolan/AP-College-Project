@@ -3,6 +3,7 @@ package primary;
 public class Teacher extends Person {
 	int startYear;
 	double salary;
+	
 	/**
 	 * @param name
 	 * @param birthYear
